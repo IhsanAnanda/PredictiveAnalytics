@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Ihsan Ananda Pratama
+# Proyek Machine Learning - Ihsan Ananda Pratama
 
 ## Domain Proyek
 
